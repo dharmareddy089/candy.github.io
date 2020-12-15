@@ -1,0 +1,76 @@
+body
+{
+  background: pink;
+}
+.navbar-brand
+{
+  font-family:'Raleway', sans-serif;
+  font-size: 2.0rem;
+  color:red;
+  font-weight: 400;
+}
+.nav-item
+{
+  color:white;
+}
+.nav-item:hover
+{
+  color:red;
+}
+.col-lg-4
+{
+  padding: 5px;
+}
+.k
+{
+  font-family: 'Raleway', sans-serif;
+}
+.m
+{
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+#carousel
+{
+  padding-top: 5px;
+  width: 50%;
+  height: 70%;
+}
+#contam
+{
+  width: 80%;
+  padding: 0px;
+  height: 70%;
+  background: url("https://pbs.twimg.com/media/EpOnBSHXIAA5uaz?format=jpg&name=small");
+}
+.fab:hover
+{
+  color:red;
+  size:10px;
+}
+.op:hover
+{
+  color:red;
+}
+.he:hover
+{
+  color:red;
+}
+.fab
+{
+  color: pink;
+}
+.l:hover
+{
+  color:pink;
+}
+.king
+{
+  background: url("https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  color: white;
+  font-family: 'Dancing Script', cursive;
+}
+.row
+{
+  padding: 5px;
+}
