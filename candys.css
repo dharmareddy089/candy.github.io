@@ -24,6 +24,11 @@ body
 .k
 {
   font-family: 'Raleway', sans-serif;
+  color:white;
+}
+.a
+{
+  color:white;
 }
 .m{
   font-family:'Raleway', sans-serif;
@@ -39,7 +44,6 @@ body
   width: 80%;
   padding: 0px;
   height: 70%;
-  background: url("https://pbs.twimg.com/media/EpOnBSHXIAA5uaz?format=jpg&name=small");
 }
 .fab:hover
 {
@@ -64,7 +68,7 @@ body
 }
 .king
 {
-  background: url("https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background: pink;
   color: white;
 }
 .row
