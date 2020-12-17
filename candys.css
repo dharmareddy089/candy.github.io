@@ -1,77 +1,76 @@
 body
 {
-  background: pink;
+  background-color: white ;
+}
+.navbar
+{
+  color:white;
+  background:#ff66ff;
 }
 .navbar-brand
 {
-  font-family:'Raleway', sans-serif;
-  font-size: 2.0rem;
-  color:red;
+  font-size: 25px;
+  font-weight: 800;
+}
+.nav-link
+{
+  font-size: 20px;
   font-weight: 400;
 }
-.nav-item
+.hed
 {
-  color:white;
+  font-family: cursive;
+  font-weight: 800;
 }
-.nav-item:hover
+.ip
 {
-  color:red;
+  font-family: sans-serif;
 }
-.col-lg-4
+.nag:hover
 {
-  padding: 5px;
+  color: red;
 }
-.k
+.cho
 {
-  font-family: 'Raleway', sans-serif;
-  color:white;
+ background: url("https://static.vecteezy.com/system/resources/thumbnails/001/307/990/small/bakery-and-food-pattern-background.jpg");
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
 }
-.a
+.g
 {
-  color:white;
+  height: 20%;
+  width: 20%;
 }
-.m{
-  font-family:'Raleway', sans-serif;
-}
-#carousel
+.loli
 {
-  padding-top: 5px;
-  width: 50%;
-  height: 70%;
+  height: 20%;
 }
-#contam
-{
-  width: 80%;
-  padding: 0px;
-  height: 70%;
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
 }
-.fab:hover
+.lo
 {
-  color:red;
-  size:10px;
+  height: 40%;
 }
-.op:hover
-{
-  color:red;
+
+.back-to-top {
+    background: white;
+    position: fixed;
+    width: 10%;
+    bottom: 10px;
+    right: 10px;
+    display: none;
 }
-.he:hover
+.jack
 {
-  color:red;
-}
-.fab
-{
-  color: pink;
-}
-.l:hover
-{
-  color:pink;
-}
-.king
-{
-  background: pink;
+  background: black;
   color: white;
 }
-.row
+.gang
 {
-  padding: 5px;
+  background: gray;
+  
 }
